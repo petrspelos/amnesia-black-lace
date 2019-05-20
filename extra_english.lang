@@ -1,0 +1,11 @@
+<LANGUAGE>
+    <RESOURCES />
+ 
+	<CATEGORY Name="CustomStoryMain">
+		<Entry Name="Description"></Entry>
+	</CATEGORY>
+
+	<CATEGORY Name="Credits">
+		<Entry Name="Final">Thanks for playing this custom story.</Entry>
+	</CATEGORY>
+</LANGUAGE>
